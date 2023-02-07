@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H1z+v9trwzdmWTSzJL5EZmwhUNb8Gl7HqQ+mAImpMNs4dtJiq+8YHglkaKKqRmNrQAcTHiYFbkGDUEPJO6Y1sg==",
+  "success": true,
+  "projectFilePath": "H:\\Anguler\\MRMS-main\\MRMS-main\\MRMS.Model\\MRMS.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faruk\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Faruk\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\Faruk\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

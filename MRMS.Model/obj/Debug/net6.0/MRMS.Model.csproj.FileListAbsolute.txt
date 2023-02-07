@@ -1,0 +1,12 @@
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\bin\Debug\net6.0\MRMS.Model.deps.json
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\bin\Debug\net6.0\MRMS.Model.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\bin\Debug\net6.0\MRMS.Model.pdb
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.csproj.AssemblyReference.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.AssemblyInfoInputs.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.AssemblyInfo.cs
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.csproj.CoreCompileInputs.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\refint\MRMS.Model.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\MRMS.Model.pdb
+H:\Anguler\MRMS-main\MRMS-main\MRMS.Model\obj\Debug\net6.0\ref\MRMS.Model.dll

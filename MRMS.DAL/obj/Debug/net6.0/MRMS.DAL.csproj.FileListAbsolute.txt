@@ -1,0 +1,15 @@
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\bin\Debug\net6.0\MRMS.DAL.deps.json
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\bin\Debug\net6.0\MRMS.DAL.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\bin\Debug\net6.0\MRMS.DAL.pdb
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\bin\Debug\net6.0\MRMS.Model.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\bin\Debug\net6.0\MRMS.Model.pdb
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.csproj.AssemblyReference.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.AssemblyInfoInputs.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.AssemblyInfo.cs
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.csproj.CoreCompileInputs.cache
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.csproj.CopyComplete
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\refint\MRMS.DAL.dll
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\MRMS.DAL.pdb
+H:\Anguler\MRMS-main\MRMS-main\MRMS.DAL\obj\Debug\net6.0\ref\MRMS.DAL.dll

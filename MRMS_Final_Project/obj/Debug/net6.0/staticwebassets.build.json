@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/NEmrpS6hj7ZQwLEClqlAw7zSSGVgEuRQKxCoVtx4VA=",
+  "Source": "MRMS_Final_Project",
+  "BasePath": "_content/MRMS_Final_Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MRMS_Final_Project\\wwwroot",
+      "Source": "MRMS_Final_Project",
+      "ContentRoot": "H:\\Anguler\\MRMS-main\\MRMS-main\\MRMS_Final_Project\\wwwroot\\",
+      "BasePath": "_content/MRMS_Final_Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
